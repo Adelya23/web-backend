@@ -1,0 +1,16 @@
+{
+  "name": "вебка сонгы версия",
+  "version": "1.0.0",
+  "main" : "server.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
